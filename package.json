@@ -1,0 +1,24 @@
+{
+  "name": "diceware-fr-alt",
+  "version": "1.0.0",
+  "description": "This text file is meant to be an alternative to this [french list of words](https://raw.githubusercontent.com/chmduquesne/diceware-fr/master/diceware-fr-5-jets.txt) to generate passphrases using diceware method.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betagouv/diceware-fr-alt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/betagouv/diceware-fr-alt/issues"
+  },
+  "homepage": "https://github.com/betagouv/diceware-fr-alt#readme",
+  "dependencies": {
+    "@types/node": "^20.11.17",
+    "prettier": "^3.2.5",
+    "ts-node": "^10.9.2"
+  }
+}

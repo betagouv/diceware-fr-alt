@@ -1,0 +1,7 @@
+node_modules/
+data/*
+!data/liste_francais.txt
+!data/.gitkeep
+data/to-remove.txt
+data/replacement.txt
+.idea
